@@ -12,7 +12,7 @@ This is a simple TODO app built with React.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/todo-app.git`
+1. Clone the repository: `git clone https://github.com/aryanhegde/100xDev-ToDo.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
